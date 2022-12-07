@@ -64,6 +64,14 @@ nav {
   background-color: #92cbcd;
   font-size: 2em;
 }
+
+.photo {
+  display: block;
+  margin: 20px auto;
+  max-height: 300px;
+  border-radius: 120px;
+  border: 4px solid #445877;
+}
 .line {
   border-left: 4px solid #445877;
   height: 200px;
